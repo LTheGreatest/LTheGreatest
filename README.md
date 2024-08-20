@@ -8,7 +8,8 @@ Currently, I'm a student at FEUP, Portugal:
 
 * :muscle: I like to solve problems and possibly help other people in the process.
 
----
+
+## Skill Set
 
 ### Languages:
 
@@ -24,6 +25,22 @@ Currently, I'm a student at FEUP, Portugal:
 
 ### OS's:
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,windows&perline=20)](https://skillicons.dev)
+
+
+## Projects
+
+<table align = "center" width = "100%" >
+    <tr><th>UC</th><th>Name</th><th>Description</th></tr>
+    <tr><td><a href = "https://github.com/LTheGreatest/PROG_Project">PROG<a></td><td>...</td><td>Image manipulation in the PNG format and conversion form PNG to XPM2 and vice versa</td></tr>
+    <tr><td><a href = "https://github.com/LTheGreatest/Space_Invaders-LDTS">LDTS</a></td><td>Space Invaders</td><td>Adaptation of the popular game Space Invaders using the main concepts of software design and testing learned during the classes</td></tr>
+    <tr><td>BD</td><td>...</td><td>Database for a movie and series streaming app</td></tr>
+    <tr><td>AED</td></tr>
+    <tr><td>LTW</td></tr>
+    <tr><td>DA</td></tr>
+    <tr><td>ESOF</td></tr>
+    <tr><td>LCOM</td></tr>
+
+</table>
 
 
 
