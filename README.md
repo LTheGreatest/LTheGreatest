@@ -4,7 +4,7 @@ Currently, I'm a student at FEUP, Portugal:
 
 * :mortar_board: I'm on the third year of the bachelor in Informatics and Computer Engineering.
 
-* :zap: Because technologie is my passion, I use my free time to explore and learn new technologies.
+* :zap: Because technology is my passion, I use my free time to explore and learn new skills and technologies.
 
 * :muscle: I like to solve problems and possibly help other people in the process.
 
