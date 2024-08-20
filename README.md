@@ -44,6 +44,10 @@ Currently, I'm a student at FEUP, Portugal:
 
 </table>
 
+## Contacts 
+
+<a href = "https://github.com/Lucas202207540">Secundary Github Account</a>
+
 
 
 
