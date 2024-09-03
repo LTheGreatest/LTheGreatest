@@ -31,9 +31,9 @@ Currently, I'm a student at FEUP, Portugal:
 
 <table align = "center" width = "100%" >
     <tr><th>UC</th><th>Name</th><th>Description</th></tr>
-    <tr><td>PROG</td><td><a href = "https://github.com/LTheGreatest/PROG_Project">...<a></td><td>Image manipulation in the PNG format and conversion form PNG to XPM2 and vice versa</td></tr>
+    <tr><td>PROG</td><td><a href = "https://github.com/LTheGreatest/PROG_Project">Image Manipulation<a></td><td>Image manipulation in the PNG format and conversion form PNG to XPM2 and vice versa</td></tr>
     <tr><td>LDTS</td><td><a href = "https://github.com/LTheGreatest/Space_Invaders-LDTS">Space Invaders</a></td><td>Adaptation of the popular game Space Invaders using the main concepts of software design and testing learned during the classes</td></tr>
-    <tr><td>BD</td><td><a href = "https://github.com/LTheGreatest/BD_Project" >...</a></td><td>Database for a movie and series streaming app</td></tr>
+    <tr><td>BD</td><td><a href = "https://github.com/LTheGreatest/BD_Project" >Streaming app DB</a></td><td>Database for a movie and series streaming app</td></tr>
     <tr><td>AED</td><td><a href = "https://github.com/LTheGreatest/AED_Project1_School_Schedule_Management">School Schedule Management</a></td><td>School shedule management system using all the data structures and algorithms learned in the classes</td></tr>
     <tr><td>AED</td><td><a href = "https://github.com/LTheGreatest/AED_Project2_Air_Travel_Management">Air Travel Management</a></td><td>Air Travel management system using all the data structures and algorithms learned in the classes (focus on graphs)</td></tr>
     <tr><td>LTW</td><td><a href = "https://github.com/LTheGreatest/LTW_Project_Preloved_Clothes_Website">Vintage Lovers</a></td><td>Website used to buy and sell pre-loved clothes</td></tr>
